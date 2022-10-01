@@ -1,5 +1,5 @@
 # Bikesharing
-https://public.tableau.com/shared/8J2B4SD2D?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/abigail.edwards6255/viz/CitibikeChallenge_16646563766200/CitibikeStory#1
 
 ## Overview 
 ### Purpose 
